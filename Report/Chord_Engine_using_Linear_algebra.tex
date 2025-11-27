@@ -118,6 +118,10 @@
 \textbf{\Huge Chord Engine using linear Algebra} \\[0.75cm]
 \textbf{\Large A Vector Space Approach to Music Generation Using 12-TET} \\[2cm]
 
+\textbf{\Large Project Repository:}\\[0.25cm]
+\href{https://github.com/rishirajvishwakarmacode/ALA_art_project/tree/main}{\texttt{Click this text to see the repository}} \\[2cm]
+
+
 % ---- Submitted By ----
 \begin{flushleft}
 \textbf{\Large Submitted By:}\\[0.25cm]
@@ -148,12 +152,9 @@
 
 \tableofcontents
 \newpage
-
 \begin{abstract}
 Music theory is traditionally expressed through symbolic notation and auditory interpretation. This project presents a mathematical framework that models musical notes, chords, and progressions using concepts from Linear Algebra. By representing the twelve pitch classes of Western music as orthonormal basis vectors in $\mathbb{R}^{12}$, we construct chords using linear combinations and define transposition through cyclic shift matrices. The project further introduces chord operators that generate major, minor, and extended harmonies as matrix transformations acting on single-note vectors. Frequency realization is achieved through octave transformation matrices that map abstract pitch-class vectors to audio signals. Temporal information is incorporated using beat--duration scaling, allowing chord progressions to be synthesized at any tempo. Finally, we develop a sound synthesis pipeline that employs overtone-based additive synthesis to approximate piano timbre and generate audible chord progressions. The resulting system demonstrates that musical composition and playback can be expressed as linear transformations, showing the power and applicability of Linear Algebra in digital music generation.
 \end{abstract}
-
-
 \chapter{Introduction}
 \section{Motivation}
 The idea for this project emerged while studying the topic of \textbf{solution parametrisation of linear systems} in Linear Algebra, where multiple solutions can be represented as vectors belonging to the same subspace. This inspired the question of whether musical elements, particularly notes and chords, could also be represented in a vector space and manipulated using linear transformations.
@@ -298,7 +299,6 @@ The completed system demonstrates that musical harmony and sound generation can 
 \end{itemize}
 
 Overall, the project validates that abstract concepts such as basis vectors, linear operators, and matrix transformations can be directly applied to a real-world domain like music, enabling automated audio synthesis through Linear Algebra.
-
 \chapter{Mathematical Representation of Chords}
 \section{Pitch Classes as a Vector Space}
 
@@ -850,7 +850,6 @@ Let:
 \end{itemize}
 
 Thus, harmony (via shift matrices), pitch realization (via frequency mapping), and time (via beat scaling) together form the complete linear-algebraic chord engine.
-
 \chapter{Implementation (Python)}
 
 In this chapter, we implement the chord engine step by step, following the mathematical model developed earlier. The implementation is done in Python using NumPy for vector and matrix operations and a sound library for playback.
@@ -1319,8 +1318,6 @@ In summary:
 \end{itemize}
 
 This completes the chord engine: linear algebra handles harmony and structure, while tempo and beats control the timing of chord playback.
-
-
 \chapter{Results and Demonstration}
 \section*{Example: Chord Progression for a Popular Song (``Jeena Jeena'')}
 

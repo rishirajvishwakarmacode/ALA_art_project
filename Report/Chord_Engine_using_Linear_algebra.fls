@@ -291,6 +291,10 @@ INPUT C:\latex\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary
 INPUT C:\latex\MiKTeX\fonts\tfm\public\lm\ec-lmbx10.tfm
 INPUT C:\latex\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
 INPUT C:\latex\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT C:\latex\MiKTeX\tex\latex\lm\t1lmtt.fd
+INPUT C:\latex\MiKTeX\tex\latex\lm\t1lmtt.fd
+INPUT C:\latex\MiKTeX\tex\latex\lm\t1lmtt.fd
+INPUT C:\latex\MiKTeX\fonts\tfm\public\lm\ec-lmtt10.tfm
 INPUT C:\latex\MiKTeX\tex\latex\lm\ts1lmr.fd
 INPUT C:\latex\MiKTeX\tex\latex\lm\ts1lmr.fd
 INPUT C:\latex\MiKTeX\tex\latex\lm\ts1lmr.fd
@@ -363,10 +367,6 @@ INPUT C:\latex\MiKTeX\fonts\tfm\public\lm\ec-lmri10.tfm
 INPUT C:\latex\MiKTeX\fonts\tfm\public\lm\ec-lmr12.tfm
 INPUT C:\latex\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
 INPUT C:\latex\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
-INPUT C:\latex\MiKTeX\tex\latex\lm\t1lmtt.fd
-INPUT C:\latex\MiKTeX\tex\latex\lm\t1lmtt.fd
-INPUT C:\latex\MiKTeX\tex\latex\lm\t1lmtt.fd
-INPUT C:\latex\MiKTeX\fonts\tfm\public\lm\ec-lmtt10.tfm
 INPUT C:\latex\MiKTeX\fonts\enc\dvips\lm\lm-mathex.enc
 INPUT C:\latex\MiKTeX\fonts\tfm\public\lm\rm-lmr12.tfm
 INPUT C:\latex\MiKTeX\fonts\tfm\public\lm\rm-lmr8.tfm

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.24)  27 NOV 2025 19:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.24)  27 NOV 2025 19:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -827,7 +827,11 @@ Package siunitx Warning: Detected the "physics" package:
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 107.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 125.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 122.
+ (C:\latex\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 129.
  (C:\latex\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -889,7 +893,7 @@ l.40 ...ing and the Chord Engine}{14}{section.2.6}
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.154 \end{abstract}
+l.157 \end{abstract}
                      [1]
 Chapter 1.
 
@@ -898,7 +902,7 @@ Chapter 1.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.183 \subsection
+l.184 \subsection
                  *{Chords as Linear Combinations} [1
 
 {C:/latex/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/latex/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
@@ -907,12 +911,8 @@ l.183 \subsection
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.227 \]
+l.228 \]
          [2]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 269.
- (C:\latex\MiKTeX\tex/latex/lm\t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
 
 [3{C:/latex/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}]
 
@@ -1038,9 +1038,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  84i,10n,87p,1330b,2574s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/latex/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/latex/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/latex/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/latex/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/latex/MiKTeX/fonts/type1/public/lm/lmmi5.pfb><C:/latex/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/latex/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/latex/MiKTeX/fonts/type1/public/lm/lmr5.pfb><C:/latex/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/latex/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/latex/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/latex/MiKTeX/fonts/type1/public/lm/lmri7.pfb><C:/latex/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/latex/MiKTeX/fonts/type1/public/lm/lmsy5.pfb><C:/latex/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/latex/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/latex/MiKTeX/fonts/type1/public/lm/lmtt9.pfb><C:/latex/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Chord_Engine_using_Linear_algebra.pdf (30 pages, 480381 bytes).
+Output written on Chord_Engine_using_Linear_algebra.pdf (30 pages, 480724 bytes).
 PDF statistics:
- 790 PDF objects out of 1000 (max. 8388607)
+ 791 PDF objects out of 1000 (max. 8388607)
  307 named destinations out of 1000 (max. 500000)
  421 words of extra memory for PDF output out of 10000 (max. 10000000)
 
